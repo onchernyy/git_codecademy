@@ -1,1 +1,1 @@
-Hello Git and Gitthub
+Hello Git and Github
